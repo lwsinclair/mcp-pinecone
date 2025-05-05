@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/sirmews-mcp-pinecone-badge.png)](https://mseep.ai/app/sirmews-mcp-pinecone)
+
 # Pinecone Model Context Protocol Server for Claude Desktop.
 
 [![smithery badge](https://smithery.ai/badge/mcp-pinecone)](https://smithery.ai/server/mcp-pinecone)
